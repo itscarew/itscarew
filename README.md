@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer. I've been writing Nodejs for sometime now and its great!!! 
 
-* I'm currently learning Typescript.
+* I'm currently learning Python.
 
 * I love building API's.
 
