@@ -1,2 +1,2 @@
-### Heyooo! 👋
-Full-Stack Web Developer. 
+<!-- ### Heyooo! 👋 -->
+I hope i know what i'm doing. 
